@@ -1,0 +1,4 @@
+*.pyc
+Recordings/
+models/
+*.pkl
